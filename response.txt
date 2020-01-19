@@ -1,0 +1,174 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    response.txt                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: vinguyen <vinguyen@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/01/18 14:48:19 by vinguyen          #+#    #+#              #
+#    Updated: 2020/01/18 16:10:44 by vinguyen         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Self-Reflection of My Time at 42 Silicon Valley
+
+V1. Motivation
+
+Why did you join 42?
+I joined 42 to find opportunities, network, and learn computer science. Although
+I had graduated from Howard University, a place with a lot of opportunities in
+computer science, I did not meet many people interested in health-tech, let alone
+anyone who had a more nontraditional path. 42 is the hub of nontraditional galore.
+It is honestly comforting to find more people like you -- who have worked in a 
+different industry or who decided to pursue this nontraditional coding school
+instead of a university. These people are the people that will create the next
+world -- they are people that think outside the box and have motivation to learn
+not because someone is forcing them but because they truly love learning.
+
+What am I looking for here? 
+Guidance. I am looking for guidance in the field that
+I may want to do and to learn more about tech in general. I am unaware of so many
+tech words/jargon, and I honestly do feel lost in a conversation about tech. This
+type of environment -- one with an endless away of tech enthusiasts -- will help me
+develop that tech termninology.
+
+What is your purpose?
+My purpose is to develop a health-tech presence online and to gain some basic skills
+needed to well, not flail, in the tech world. Although I have yet to breach the 
+health-tech world, I am meeting up with a few people in Silicon Valley, so I am
+slowly expanding my connections, and, hopefully, will one day be able to find that
+person who knows exactly what part of health-tech I am interested in.
+
+Is 42 the right school for you?
+I'm not sure. It is not perfect, to be honest. There is definitely a lot of failing.
+However, this school does teach you a lot of life lessons and prepares you for the 
+real world. The education -- I do believe that there should be some morning classes
+or such pertaining to each project so we could better learn the theory. However, I
+do enjoy my time here and the friends that I have made.
+
+Are you compatible with its peer-learning method?
+I honestly do think I am. I am quite social when I want to be. The weakness though
+is that I am sometimes overly nice. At one point, I just got annoyed at everyone
+and wanted to hide in a little corner and not help anyone because I was unable to get
+anything done because people kept on asking me for help. It's good to learn a 
+balance between saying yes and no. If you're busy or not free, then be honest. You
+don't need to help everyone.
+
+Do you enjoy challenges, discovering things on your own, being autonomous?
+Yes, yes, yes! However, if I am utterly lost, I would definitely love some guidance.
+To be honest, I am still searching for a mentor in computer science -- someone who
+is willing to help me figure out my pathway of merging medicine and tech.
+
+Do you like studying at 42 or just the idea of it?
+I do love studying at 42 -- not just the idea of it. I wasn't fond of the traditional
+eduation system, so here I am.
+
+V2. Attendance Time at 42
+
+Do you think you work hard enough? Why, or why not? 
+To be honest, although I do love coding, I am not working hard enough because of my 
+other duties and goals for being at 42. I am interested in learning about computer 
+science but it is a little hard to determine what part of computer science I want to
+do since I am unaware of what is a good pathway to merge healthcare and CS. Freddy
+Abnousi, the head of Facebook's healthcare team, is one of the leading examples
+who is able to bridge the gap between medicine and healthcare. Yes, we can be a physician,
+but how many lives are we saving? There is only so many physicians. You can have a broader
+impact of taking your experience in the field and help create technology or become the
+liason between the two fields. America is pretty good at taking care of ill patients
+compared to other countries but there is a discrepancy in preventing the illness onset.
+Preventative measures are just as important to explore. My apologies for going on a 
+tangetnt, but I am not working hard enough. My pathway toward what I want to do is not
+easy by far, so I need to work even harder.
+
+Can you do better? How?
+Yes, I should be able to create a stronger online portfolio and do projects more 
+efficienctly. Kmira, another 42 student, although he had little-no background in CS, 
+his code is probably one of the cleanest and most efficient codes compared to other
+students at 42 Silicon Valley. There are people at admire at 42 -- he is one of them.
+
+V3. Output
+
+How do you split your time spent at 42?
+I probably spend a total of about 1 week actually coding a month. The other time is 
+dedicated toward helping others, doing vounteer/ambassador events, going to different
+meetings, and working on my professional presence/applying to job opportunities.
+
+Where do you spend most of your time here? Why?
+I spend the most of my time here either at my boyfriend's house or in Zone 3. I always
+sit in the same desk but my hours are a little erratic. There is more to life than
+just studying. My relationship with those who I care about is also important. As a result,
+I choose to allocate my time differently than most students, but I do admit that I 
+should focus on computer science more.
+
+Do you spend more time on your IDE or on your browser? Why?
+I spend more time on the browser than IDE, which is unfortunate. I should be spending 
+more time on the terminal or visual studio code, figuring out the code. The reason
+that I spend a lot of time online is because there are multiple distractions I have
+and tasks that I am doing that I must constantly work. 
+
+How could you improve your productivity?
+I could improve my productivity by telling my friends to message me if they have a 
+question rather than coming up to me and tapping my shoulder or asking for help. 
+(Side note: I would love to help everyone, but I can't unfortuantely). In addition, I
+bought sound-decreasing headphones to help alleviate the noise, and, with these bulky 
+headphones, hopefully, others will consider messaging before tapping my shoulder
+to get my attention.
+
+What do you think about the phrases "practice makes perfect" and "one doesn't learn how to
+ride a bike by watching someone else riding it?"
+Practice does not quite make perfect but practice can significantly improve one's skills.
+It is true that you need to actually code to improve your coding skills. That is why
+I like the hands-on coding here rather than just theoretical knowledge.
+
+V4. Peer-Pedagogy
+
+Do you perceive peer-evaluations as a constraint, or even a waste of time?
+At 42, I consider it a benefit because I get to preview projects that I may not have
+worked on but other cadets have. In addition, I could learn how to better implement
+my code or to defend why I chose a particular method for my code.
+
+Is the code you hand in truly yours? Are you capable of rewriting your own projects
+from scratch? Do you fully understand them?
+The code in my hand is mine, but, to be honest, I don't know if I could rewrite 
+the project from scratch. I probably could but it woudl take time and I would have
+to Google also. The reason I am saying this is that I often forget or can't read 
+my own code. I am not good at remembering why I chose to implement a certain statement
+or what I am doing even though I coded it. As a result, one of the weaknesses I have
+is reading code.
+
+Have you ever cheated? Why?
+Have I ever cheated? Yes, and no. Is looking at other people's GitHub considered 
+cheating, or is it considered learning how to read other people's code and look
+at how to better implement something?
+
+When you're struggling, what do you do? Does it work?
+When I'm struggling, I ask for help. I try to ask my friends first but if I can't figure
+it out, I will reach out for help in the group chats. Some people answer -- others don't.
+I have tried attending Socrates club before but I honestly was terrified as well because
+the students' knowledge of CS is immense. 
+
+When someone is struggling nearby, what do you do? Why? 
+I help them, of course. If I'm struggling, I would love to soemone to provide me a 
+hint toward the correct direction. I treat others as how I want to be treated.
+
+V5. Goals
+
+Short-Term Goal: To finish ft_printf!
+
+Mid-Term Goal: To gain an internship in CS that is health-tech related.
+
+Long-Term Goal: To work at the top company's healthcare division (eg. Google Health/Verily)
+
+V6. Personal Situation
+
+Do you know about the procedures, services, and key contact-persons that could help you?
+Nope. It would be interesting to have these resources clearly available to the students.
+I do know who to contact if I were in a crisis -- Crisis Textline! It's a free texting 
+services to help people get out of the crisis.
+
+V7. Your Conclusions
+
+What are the actions that you can now undertake to improve your situation?
+To determine what I want to do. I have been trying to no avail. So, instead of trying to
+swim in an ocean and reach the other side, instead I will build upon the skills that I 
+believe would be useful as a future health-tech leader.
